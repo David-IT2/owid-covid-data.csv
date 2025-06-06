@@ -1,4 +1,4 @@
-Here's a well-structured README.md file for your COVID-19 Tracker project:
+
 
 📊 COVID-19 Tracker
 A Python-based data analysis project that tracks COVID-19 cases, deaths, and trends across selected countries using real-world data from Our World in Data (OWID).
